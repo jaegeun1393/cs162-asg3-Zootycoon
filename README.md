@@ -114,6 +114,6 @@ This assignment is worth 100 points total:
 
   * 10 points: Your code is appropriately commented and uses consistent and appropriate style
 
-In addition, you can earn up to 5 points of extra credit, as described above.
+In addition, you can earn up to 5 points of extra credit, as described above
 
 Your work on this assignment will be graded by demoing it with a TA.  During your demo, you will compile and run your program for the TA and walk them through your source code, describing to them how it works.  It'll be your responsibility to sign up for a 10-minute demo slot with a TA by the demo due date above.  **You will receive a zero on the assignment if you don't demo it with a TA by the demo due date.**
